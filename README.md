@@ -1,6 +1,8 @@
 ## Hi, I'm Pramit Patel 👋
 
-Computer Science major at the University of North Georgia, with a minor in Machine Learning. I'm a member of the UNG AI Lab and the Software Engineering Club, and I like building machine learning models and AI-powered apps, mostly in Python.
+Computer Science major at the University of North Georgia, with a minor in Machine Learning. I'm a member of the UNG AI Lab and the Software Engineering Club.
+
+🔍 **Looking for AI Engineering, Machine Learning, and Data Science internships.**
 
 ### 🚀 Projects
 
